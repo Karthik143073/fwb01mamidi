@@ -24,6 +24,7 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/inhaler', inhalerRouter);
 app.use('/addmods', addmodsRouter);
+app.use('/selector', addmodsRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
