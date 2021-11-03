@@ -1,6 +1,6 @@
 deploying server into heroku
 
-hosted at
+hosted at  https://fwb01mamidi.herokuapp.com/
 
 Alphabets - I, J, K, L
 
